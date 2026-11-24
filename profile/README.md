@@ -27,3 +27,10 @@
 - **[DeepSeek V4 Pro Uncensored](https://github.com/hexapi-io/deepseek-v4-pro-uncensored)** · Stream a release checklist into your terminal with Node.js.
 
 [Service status](https://hexapi.io/status) · [Support](https://hexapi.io/support)
+
+
+## Create images and videos
+
+Describe a scene, start from a reference, or compare 480p and 2K image editing with Seedream 5.0 Flash. In Showroom, signed-in members can explore creations, prompts, and settings that other members chose to share.
+
+[See examples](https://hexapi.io/#media-creation) · [Compare image detail](https://hexapi.io/#image-enhancement) · [Open Showroom](https://hexapi.io/app/chat?showroom=1)
